@@ -1,5 +1,4 @@
 /* CS300 Prog 01- Store Inventory
- * Shehan Weerasekera WSU ID- Z664R875
  * Last Update: 09/14/2016
  * 
  */
